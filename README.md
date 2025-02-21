@@ -1,0 +1,2 @@
+# Real-Time-Language-Translation-Using-Neural-Machine-Translation-NMT-Bridging-Language-Barriers
+Real-Time Language Translation using Neural Machine Translation (NMT) enables seamless communication across languages. Using deep learning, it provides accurate, context-aware translations for text and speech. Widely used in chat apps, customer support, and business, NMT enhances global connectivity and inclusivity.
